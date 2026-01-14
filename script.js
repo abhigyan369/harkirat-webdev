@@ -115,7 +115,106 @@ const courseData = [
             'Recoil',
             'Recoil Deep Dive',
         ]
-    }
+    },
+    {
+        id: 'week12',
+        title: 'Week 12',
+        description: '',
+        topics: [
+            'Ui Ux Primitives Part-1',
+            'Ui Ux Primitives Part-1'
+        ]
+    },
+    {
+        id: 'week13',
+        title: 'Week 13',
+        description: '',
+        topics: [
+            'Tailwind,Ref Arrays and Building Components',
+            'Tailwind Part 2, Creating sidebars'
+        ]
+    },
+    {
+        id: 'week14',
+        title: 'Week 14',
+        description: '',
+        topics: [
+            'Typescript Part 1',
+            'Types, Interfaces and implementing interfaces',
+            'Typescript Advance APIs'
+        ]
+    },
+    {
+        id: 'week15',
+        title: 'Week 15',
+        description: '',
+        topics: [
+            'End to end app in typescript building a second brain app',
+            'Creating a UI Library, Button component',
+            'Brainly end to end'
+        ]
+    },
+    {
+        id: 'week16',
+        title: 'Week 16',
+        description: '',
+        topics: [
+            'Websockets',
+            'WebSockets Project - Chat app'
+        ]
+    },
+    {
+        id: 'week17',
+        title: 'Week 17',
+        description: '',
+        topics: [
+            'Postgres and SQL databases',
+            'Postgres and SQL databases - Part 2'
+        ]
+    },
+    {
+        id: 'week18',
+        title: 'Week 18',
+        description: '',
+        topics: [
+            'Prisma and ORMs',
+            'Prisma advanced , introducing SSR'
+        ]
+    },
+    {
+        id: 'week19',
+        title: 'Week 19',
+        description: '',
+        topics: [
+            'NextJS continuation'
+            
+        ]
+    },
+    {
+        id: 'week20',
+        title: 'Week 20',
+        description: '',
+        topics: [
+            'Next.js Continued',
+            'NextAuth'
+            
+        ]
+    },
+    {
+        id: 'week21',
+        title: 'Week 21',
+        description: '',
+        topics: [
+            'Mono repos and turborepo.',
+            'Monorepos Continued (Better Quality',
+            'CSR vs SSR vs Static Site Generation',
+            'Building PayTM Project',
+            'PayTM Frontend'
+            
+        ]
+    },
+    
+    
 ];
 
 const STORAGE_KEY = 'course_progress_v1';
